@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Mundo 1","order":1,"parentId":0,"scrollX":1731,"scrollY":1563},
+{"id":2,"expanded":true,"name":"Twitch","order":2,"parentId":1,"scrollX":1359,"scrollY":1563},
+{"id":3,"expanded":false,"name":"Casa do Wig","order":3,"parentId":2,"scrollX":813,"scrollY":487.5},
+{"id":4,"expanded":false,"name":"Casa do Absol","order":4,"parentId":2,"scrollX":1445.3333333333333,"scrollY":866.6666666666666},
+{"id":5,"expanded":true,"name":"Booyah","order":5,"parentId":1,"scrollX":801,"scrollY":693},
+{"id":6,"expanded":false,"name":"Garagem","order":6,"parentId":5,"scrollX":813,"scrollY":487.5},
+{"id":7,"expanded":true,"name":"Mundo 2","order":16,"parentId":0,"scrollX":3291,"scrollY":2584.5},
+{"id":8,"expanded":true,"name":"Templo Flutuante","order":7,"parentId":1,"scrollX":801,"scrollY":952.5},
+{"id":9,"expanded":false,"name":"Castelo 1º Andar","order":8,"parentId":8,"scrollX":1167,"scrollY":1444.5},
+{"id":10,"expanded":false,"name":"Castelo 3º Andar","order":9,"parentId":8,"scrollX":1167,"scrollY":664.5},
+{"id":11,"expanded":false,"name":"Castelo de Demônio","order":10,"parentId":1,"scrollX":1167,"scrollY":1563},
+{"id":12,"expanded":false,"name":"Castelo de Demônio 1º Andar","order":11,"parentId":11,"scrollX":640.8,"scrollY":644.4},
+{"id":13,"expanded":false,"name":"Castelo de Demônio 3º Andar","order":12,"parentId":11,"scrollX":1071,"scrollY":1204.5},
+{"id":14,"expanded":false,"name":"Salão de Transferência","order":13,"parentId":11,"scrollX":813,"scrollY":487.5},
+{"id":15,"expanded":false,"name":"Torre 1º Andar","order":14,"parentId":11,"scrollX":1167,"scrollY":1444.5},
+{"id":16,"expanded":false,"name":"Prisão especial","order":15,"parentId":11,"scrollX":832,"scrollY":640}
+]

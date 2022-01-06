@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"Wig","characterIndex":0,"characterName":"Wig","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Wig","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wig1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Absol","characterIndex":0,"characterName":"Absol","classId":2,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"Absol","traits":[],"initialLevel":1,"maxLevel":99,"name":"Absol","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Lais","characterIndex":0,"characterName":"Lais","classId":5,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Lais","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lais","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Ellordh","characterIndex":0,"characterName":"Ellordh","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Ellordh","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ellordh","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Bia","characterIndex":0,"characterName":"Bia","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Bia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bia","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Juju","characterIndex":0,"characterName":"Juju","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Juju","traits":[],"initialLevel":1,"maxLevel":99,"name":"Juju","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Sara","characterIndex":0,"characterName":"Sara","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Sara","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sara","nickname":"","note":"","profile":""}
+]
